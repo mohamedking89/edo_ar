@@ -20,7 +20,7 @@
 			"should_read": true
 		},
 		{
-			"url": "https://github.com/ProjectIgnis/Puzzles",
+			"url": "https://github.com/mohamedsuper1234/Puzzles",
 			"repo_name": "edo_ar puzzles",
 			"repo_path": "./puzzles/arab duelist",
 			"should_update": true,
@@ -29,8 +29,9 @@
 		{
 "url": "https://github.com/mohamedsuper1234/arab-edo-fonts",
 			"repo_name": "edo_ar font",
-			"repo_path": "./fonts/ar",
+			"repo_path": "./fonts",
 			"should_update": true,
+              
 			"should_read": true
 		}
 	],
