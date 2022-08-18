@@ -30,8 +30,8 @@
 "url": "https://github.com/mohamedsuper1234/arab-edo-fonts",
 			"repo_name": "edo_ar font",
 			"repo_path": "./fonts",
-			"should_update": true,
-              
+                "fonts_path": "fonts",
+			"should_update": true
 			"should_read": true
 		}
 	],
